@@ -5,7 +5,7 @@ Module 19 Progressive Web Applications (PWA) Challenge: Text Editor
 Main purpose is to be used offline as a PWA. Whem connection is altered. the app can still be used.
 
 
-![Image](./develop/Screenshot_1.png)
+![Image](.Screenshot_1.png)
 
 ### User Story
 
