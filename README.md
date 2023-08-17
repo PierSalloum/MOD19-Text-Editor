@@ -4,7 +4,7 @@ Module 19 Progressive Web Applications (PWA) Challenge: Text Editor
 
 E-commerce set up to test and run routes for products, categories, and tags. This application uses Express.js API and Sequelize to interact with a MySQL database.
 
-![Image](./Screenshot_1.png)
+![Image](./develop/Screenshot_1.png)
 
 ### User Story
 
@@ -50,5 +50,4 @@ npm i
 
 ## Usage
 
-npm run seed
-npm run
+Access the provided link. https://pwa--text-editor-pz-3d88571bc57e.herokuapp.com/
