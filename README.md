@@ -2,7 +2,8 @@ Module 19 Progressive Web Applications (PWA) Challenge: Text Editor
 
 ## Description 
 
-E-commerce set up to test and run routes for products, categories, and tags. This application uses Express.js API and Sequelize to interact with a MySQL database.
+Main purpose is to be used offline as a PWA. Whem connection is altered. the app can still be used.
+
 
 ![Image](./Screenshot_1.png)
 
